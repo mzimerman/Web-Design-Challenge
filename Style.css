@@ -24,7 +24,6 @@ body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
   }
   .navbar {
-    background-color: white;
     font-size: 25px; 
   }
   .active, .dropdown-menu .dropdown-item:active a:hover {
@@ -36,10 +35,6 @@ body {
   .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
     background-color: #4ba0f0 !important;
   }
-  
-  .nav-link:hover {
-    background-color:#E7E7E7 !important;
-   }
   
   .navbar-brand:hover {
   color: #4bbcf0 !important;
@@ -54,11 +49,6 @@ body {
   img{
     width:100% !important;
     height:100% !important;
-  }
-  .active, .panel:hover {
-    border-color:#0f0f0f;
-    border-style: solid;
-    
   }
   .vizualization {
     width:50% !important;
@@ -114,9 +104,5 @@ body {
     }
     button{
       margin-right: 30px;
-    }
-    button:focus {
-      outline: 1px dotted;
-      outline: auto 5px;
     }
   }
