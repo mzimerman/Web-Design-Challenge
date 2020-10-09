@@ -13,6 +13,7 @@ The website must consist of 7 pages total, including:
 A Landing Page containing:
 An explanation of the project
 Links to each visualizations page
+C:\Users\mzimerma\Desktop\Data Analytics\Web Design\Web-Design-Challenge\Web-Design-Challenge\Index.html
 
 
 Four Visualization Pages, each with:
